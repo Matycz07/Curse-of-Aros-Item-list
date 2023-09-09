@@ -463,5 +463,1225 @@
         "Name": "Ancient Scimitar",
         "PhotoUrl": "pictures/Ancient Scimitar.png",
         "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Shield",
+        "PhotoUrl": "pictures/Bronze Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Shield",
+        "PhotoUrl": "pictures/Iron Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Shield",
+        "PhotoUrl": "pictures/Steel Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Shield",
+        "PhotoUrl": "pictures/Crimsteel Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Sandstone Shield",
+        "PhotoUrl": "pictures/Sandstone Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Pumpking Shield",
+        "PhotoUrl": "pictures/Pumpking Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scorpion Shield",
+        "PhotoUrl": "pictures/Scorpion Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Shadow Buckler",
+        "PhotoUrl": "pictures/Shadow Buckler.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Shield",
+        "PhotoUrl": "pictures/Mythan Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Shield",
+        "PhotoUrl": "pictures/Cobalt Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Shield",
+        "PhotoUrl": "pictures/Varaxite Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Deadrock Shield",
+        "PhotoUrl": "pictures/Deadrock Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Dormant Shield",
+        "PhotoUrl": "pictures/Dormant Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Shield",
+        "PhotoUrl": "pictures/Ancient Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Elemental Shield",
+        "PhotoUrl": "pictures/Elemental Shield.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Pickaxe",
+        "PhotoUrl": "pictures/Mythan Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Pickaxe",
+        "PhotoUrl": "pictures/Cobalt Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Pickaxe",
+        "PhotoUrl": "pictures/Varaxite Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Pickaxe",
+        "PhotoUrl": "pictures/Magic Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Pickaxe",
+        "PhotoUrl": "pictures/Umbral Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Pickaxe",
+        "PhotoUrl": "pictures/Ancient Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Axe",
+        "PhotoUrl": "pictures/Mythan Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Axe",
+        "PhotoUrl": "pictures/Cobalt Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Axe",
+        "PhotoUrl": "pictures/Varaxite Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Axe",
+        "PhotoUrl": "pictures/Magic Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Axe",
+        "PhotoUrl": "pictures/Umbral Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Axe",
+        "PhotoUrl": "pictures/Ancient Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Rod",
+        "PhotoUrl": "pictures/Mythan Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Rod",
+        "PhotoUrl": "pictures/Cobalt Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Rod",
+        "PhotoUrl": "pictures/Varaxite Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Rod",
+        "PhotoUrl": "pictures/Magic Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Rod",
+        "PhotoUrl": "pictures/Umbral Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Rod",
+        "PhotoUrl": "pictures/Ancient Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Spade",
+        "PhotoUrl": "pictures/Iron Spade.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Spade",
+        "PhotoUrl": "pictures/Crimsteel Spade.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Spade",
+        "PhotoUrl": "pictures/Mythan Spade.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Golemite Spade",
+        "PhotoUrl": "pictures/Golemite Spade.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Spade",
+        "PhotoUrl": "pictures/Ancient Spade.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Helm",
+        "PhotoUrl": "pictures/Crimsteel Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ruby Helm",
+        "PhotoUrl": "pictures/Ruby Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Sapphire Helm",
+        "PhotoUrl": "pictures/Sapphire Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Arosite Helm",
+        "PhotoUrl": "pictures/Arosite Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Helm",
+        "PhotoUrl": "pictures/Cobalt Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Pumpking Helm",
+        "PhotoUrl": "pictures/Pumpking Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Helm",
+        "PhotoUrl": "pictures/Varaxite Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Deadrock Helm",
+        "PhotoUrl": "pictures/Deadrock Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Glacial Helm",
+        "PhotoUrl": "pictures/Glacial Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Spectral Helm",
+        "PhotoUrl": "pictures/Spectral Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Phantom Helm",
+        "PhotoUrl": "pictures/Phantom Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Golemite Helm",
+        "PhotoUrl": "pictures/Golemite Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Helm",
+        "PhotoUrl": "pictures/Umbral Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Soulgazer S1",
+        "PhotoUrl": "pictures/Soulgazer S1.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Soulgazer S2",
+        "PhotoUrl": "pictures/Soulgazer S2.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Soulgazer S3",
+        "PhotoUrl": "pictures/Soulgazer S3.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Soulgazer S4",
+        "PhotoUrl": "pictures/Soulgazer S4.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Saving Grace",
+        "PhotoUrl": "pictures/Saving Grace.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bat Amulet",
+        "PhotoUrl": "pictures/Bat Amulet.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nature Amulet",
+        "PhotoUrl": "pictures/Nature Amulet.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Amulet of Focus",
+        "PhotoUrl": "pictures/Amulet of Focus.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Prospector's Necklace",
+        "PhotoUrl": "pictures/Prospector's Necklace.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ruby Necklace",
+        "PhotoUrl": "pictures/Ruby Necklace.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Sapphire Necklace",
+        "PhotoUrl": "pictures/Sapphire Necklace.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Arosite Necklace",
+        "PhotoUrl": "pictures/Arosite Necklace.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Emerald Necklace",
+        "PhotoUrl": "pictures/Emerald Necklace.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magnetite Necklace",
+        "PhotoUrl": "pictures/Magnetite Necklace.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Battle Necklace",
+        "PhotoUrl": "pictures/Battle Necklace.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Platebody",
+        "PhotoUrl": "pictures/Bronze Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Platebody",
+        "PhotoUrl": "pictures/Iron Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Chainbody",
+        "PhotoUrl": "pictures/Steel Chainbody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Platebody",
+        "PhotoUrl": "pictures/Crimsteel Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ruby Platebody",
+        "PhotoUrl": "pictures/Ruby Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Sapphire Platebody",
+        "PhotoUrl": "pictures/Sapphire Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Arosite Platebody",
+        "PhotoUrl": "pictures/Arosite Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Platebody",
+        "PhotoUrl": "pictures/Cobalt Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Platebody",
+        "PhotoUrl": "pictures/Varaxite Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Deadrock Body",
+        "PhotoUrl": "pictures/Deadrock Body.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Glacial Body",
+        "PhotoUrl": "pictures/Glacial Body.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Spectral Breastplate",
+        "PhotoUrl": "pictures/Spectral Breastplate.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Phantom Breastplate",
+        "PhotoUrl": "pictures/Phantom Breastplate.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Golemite Stoneplate",
+        "PhotoUrl": "pictures/Golemite Stoneplate.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Scalemail",
+        "PhotoUrl": "pictures/Umbral Scalemail.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Platebody",
+        "PhotoUrl": "pictures/Ancient Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Gauntlets",
+        "PhotoUrl": "pictures/Bronze Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Gauntlets",
+        "PhotoUrl": "pictures/Iron Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Gauntlets",
+        "PhotoUrl": "pictures/Steel Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Gauntlets",
+        "PhotoUrl": "pictures/Crimsteel Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scorpion Gloves",
+        "PhotoUrl": "pictures/Scorpion Gloves.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Raptor Gloves",
+        "PhotoUrl": "pictures/Raptor Gloves.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Desert Raptor Gloves",
+        "PhotoUrl": "pictures/Desert Raptor Gloves.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Gauntlets",
+        "PhotoUrl": "pictures/Cobalt Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ice Raptor Gloves",
+        "PhotoUrl": "pictures/Ice Raptor Gloves.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Gauntlets",
+        "PhotoUrl": "pictures/Varaxite Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Deadrock Gauntlets",
+        "PhotoUrl": "pictures/Deadrock Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cactus Gloves",
+        "PhotoUrl": "pictures/Cactus Gloves.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Glacial Gauntlets",
+        "PhotoUrl": "pictures/Glacial Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Golemite Gauntlets",
+        "PhotoUrl": "pictures/Golemite Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Gauntlets",
+        "PhotoUrl": "pictures/Umbral Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Gauntlets",
+        "PhotoUrl": "pictures/Ancient Gauntlets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Torment of Glacii",
+        "PhotoUrl": "pictures/Torment of Glacii.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ring of Treasure",
+        "PhotoUrl": "pictures/Ring of Treasure.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ring of Sweetness",
+        "PhotoUrl": "pictures/Ring of Sweetness.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nature Ring",
+        "PhotoUrl": "pictures/Nature Ring.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bat Ring",
+        "PhotoUrl": "pictures/Bat Ring.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ring of Might",
+        "PhotoUrl": "pictures/Ring of Might.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Infernal Ring",
+        "PhotoUrl": "pictures/Infernal Ring.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cactus Ring",
+        "PhotoUrl": "pictures/Cactus Ring.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Snake Charm",
+        "PhotoUrl": "pictures/Snake Charm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Platelegs",
+        "PhotoUrl": "pictures/Bronze Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Platelegs",
+        "PhotoUrl": "pictures/Iron Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Gold Platelegs",
+        "PhotoUrl": "pictures/Gold Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Platelegs",
+        "PhotoUrl": "pictures/Cobalt Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Platelegs",
+        "PhotoUrl": "pictures/Varaxite Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Deadrock Legs",
+        "PhotoUrl": "pictures/Deadrock Legs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Glacial Legs",
+        "PhotoUrl": "pictures/Glacial Legs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Spectral Platelegs",
+        "PhotoUrl": "pictures/Spectral Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Phantom Platelegs",
+        "PhotoUrl": "pictures/Phantom Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Golemite Platelegs",
+        "PhotoUrl": "pictures/Golemite Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Platelegs",
+        "PhotoUrl": "pictures/Umbral Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Platelegs",
+        "PhotoUrl": "pictures/Ancient Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Boots",
+        "PhotoUrl": "pictures/Bronze Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Boots",
+        "PhotoUrl": "pictures/Iron Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Boots",
+        "PhotoUrl": "pictures/Steel Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Gold Boots",
+        "PhotoUrl": "pictures/Gold Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Boots",
+        "PhotoUrl": "pictures/Cobalt Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Boots",
+        "PhotoUrl": "pictures/Varaxite Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Deadrock Boots",
+        "PhotoUrl": "pictures/Deadrock Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Glacial Boots",
+        "PhotoUrl": "pictures/Glacial Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Spectral Boots",
+        "PhotoUrl": "pictures/Spectral Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Phantom Boots",
+        "PhotoUrl": "pictures/Phantom Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Golemite Boots",
+        "PhotoUrl": "pictures/Golemite Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Boots",
+        "PhotoUrl": "pictures/Umbral Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Boots",
+        "PhotoUrl": "pictures/Ancient Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Infernal Hammer",
+        "PhotoUrl": "pictures/Infernal Hammer.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Inferno Tome",
+        "PhotoUrl": "pictures/Inferno Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Consume Tome",
+        "PhotoUrl": "pictures/Consume Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Blizzard Tome",
+        "PhotoUrl": "pictures/Blizzard Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Torture Tome",
+        "PhotoUrl": "pictures/Torture Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nightspun Hood",
+        "PhotoUrl": "pictures/Nightspun Hood.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Hood of Corruption",
+        "PhotoUrl": "pictures/Hood of Corruption.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Hood of Torment",
+        "PhotoUrl": "pictures/Hood of Torment.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Hood of Rage",
+        "PhotoUrl": "pictures/Hood of Rage.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Hood of Disdain",
+        "PhotoUrl": "pictures/Hood of Disdain.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Hood of Turmoil",
+        "PhotoUrl": "pictures/Hood of Turmoil.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nightspun Robes",
+        "PhotoUrl": "pictures/Nightspun Robes.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Robes of Corruption",
+        "PhotoUrl": "pictures/Robes of Corruption.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Robes of Torment",
+        "PhotoUrl": "pictures/Robes of Torment.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Robes of Rage",
+        "PhotoUrl": "pictures/Robes of Rage.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Robes of Disdain",
+        "PhotoUrl": "pictures/Robes of Disdain.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Robes of Turmoil",
+        "PhotoUrl": "pictures/Robes of Turmoil.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Novice Robe",
+        "PhotoUrl": "pictures/Novice Robe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Apprentice Robe",
+        "PhotoUrl": "pictures/Apprentice Robe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nightspun Leggings",
+        "PhotoUrl": "pictures/Nightspun Leggings.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Leggings of Corruption",
+        "PhotoUrl": "pictures/Leggings of Corruption.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Leggings of Torment",
+        "PhotoUrl": "pictures/Leggings of Torment.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Leggings of Rage",
+        "PhotoUrl": "pictures/Leggings of Rage.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Leggings of Disdain",
+        "PhotoUrl": "pictures/Leggings of Disdain.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Leggings of Turmoil",
+        "PhotoUrl": "pictures/Leggings of Turmoil.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Novice Boots",
+        "PhotoUrl": "pictures/Novice Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Apprentice Boots",
+        "PhotoUrl": "pictures/Apprentice Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scholar Boots",
+        "PhotoUrl": "pictures/Scholar Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Expert Boots",
+        "PhotoUrl": "pictures/Expert Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nightspun Boots",
+        "PhotoUrl": "pictures/Nightspun Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Boots of Corruption",
+        "PhotoUrl": "pictures/Boots of Corruption.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Boots of Torment",
+        "PhotoUrl": "pictures/Boots of Torment.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Boots of Rage",
+        "PhotoUrl": "pictures/Boots of Rage.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Boots of Disdain",
+        "PhotoUrl": "pictures/Boots of Disdain.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Boots of Turmoil",
+        "PhotoUrl": "pictures/Boots of Turmoil.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nightspun Ring",
+        "PhotoUrl": "pictures/Nightspun Ring.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ring of Corruption",
+        "PhotoUrl": "pictures/Ring of Corruption.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ring of Torment",
+        "PhotoUrl": "pictures/Ring of Torment.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ring of Rage",
+        "PhotoUrl": "pictures/Ring of Rage.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ring of Disdain",
+        "PhotoUrl": "pictures/Ring of Disdain.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ring of Turmoil",
+        "PhotoUrl": "pictures/Ring of Turmoil.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Gift (lv.5)",
+        "PhotoUrl": "pictures/Gift (lv.5).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Gift (lv.10)",
+        "PhotoUrl": "pictures/Gift (lv.10).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Gift (lv.20)",
+        "PhotoUrl": "pictures/Gift (lv.20).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Gift (lv.30)",
+        "PhotoUrl": "pictures/Gift (lv.30).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Gift (lv.40)",
+        "PhotoUrl": "pictures/Gift (lv.40).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Gift (lv.50)",
+        "PhotoUrl": "pictures/Gift (lv.50).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Gift (lv.60)",
+        "PhotoUrl": "pictures/Gift (lv.60).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Gift (lv.70)",
+        "PhotoUrl": "pictures/Gift (lv.70).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Gift (lv.80)",
+        "PhotoUrl": "pictures/Gift (lv.80).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Flask of Life",
+        "PhotoUrl": "pictures/Flask of Life.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Small XP Potion",
+        "PhotoUrl": "pictures/Small XP Potion.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Medium XP Potion",
+        "PhotoUrl": "pictures/Medium XP Potion.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Large XP Potion",
+        "PhotoUrl": "pictures/Large XP Potion.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Anti-Poison Serum",
+        "PhotoUrl": "pictures/Anti-Poison Serum.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scroll of Deflection",
+        "PhotoUrl": "pictures/Scroll of Deflection.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scroll of Power",
+        "PhotoUrl": "pictures/Scroll of Power.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scroll of Protection",
+        "PhotoUrl": "pictures/Scroll of Protection.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scroll of Rejuvenation",
+        "PhotoUrl": "pictures/Scroll of Rejuvenation.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scroll of Vitality",
+        "PhotoUrl": "pictures/Scroll of Vitality.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scroll of Magic",
+        "PhotoUrl": "pictures/Scroll of Magic.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Sugar Brew",
+        "PhotoUrl": "pictures/Sugar Brew.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Candy Cane",
+        "PhotoUrl": "pictures/Candy Cane.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Guarding",
+        "PhotoUrl": "pictures/Relic of Guarding.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Healing",
+        "PhotoUrl": "pictures/Relic of Healing.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Wealth",
+        "PhotoUrl": "pictures/Relic of Wealth.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Power",
+        "PhotoUrl": "pictures/Relic of Power.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Nature",
+        "PhotoUrl": "pictures/Relic of Nature.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Fire",
+        "PhotoUrl": "pictures/Relic of Fire.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Damage",
+        "PhotoUrl": "pictures/Relic of Damage.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Leeching",
+        "PhotoUrl": "pictures/Relic of Leeching.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Experience",
+        "PhotoUrl": "pictures/Relic of Experience.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cursed Relic",
+        "PhotoUrl": "pictures/Cursed Relic.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ice Relic",
+        "PhotoUrl": "pictures/Ice Relic.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Efficiency",
+        "PhotoUrl": "pictures/Relic of Efficiency.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Relic of Affliction",
+        "PhotoUrl": "pictures/Relic of Affliction.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Mackerel",
+        "PhotoUrl": "pictures/Cooked Mackerel.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Squid",
+        "PhotoUrl": "pictures/Cooked Squid.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Sardine",
+        "PhotoUrl": "pictures/Cooked Sardine.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Eel",
+        "PhotoUrl": "pictures/Cooked Eel.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Anglerfish",
+        "PhotoUrl": "pictures/Cooked Anglerfish.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Trout",
+        "PhotoUrl": "pictures/Cooked Trout.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Bass",
+        "PhotoUrl": "pictures/Cooked Bass.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Tuna",
+        "PhotoUrl": "pictures/Cooked Tuna.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Lobster",
+        "PhotoUrl": "pictures/Cooked Lobster.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Sea Turtle",
+        "PhotoUrl": "pictures/Cooked Sea Turtle.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Manta Ray",
+        "PhotoUrl": "pictures/Cooked Manta Ray.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Shark",
+        "PhotoUrl": "pictures/Cooked Shark.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Orca",
+        "PhotoUrl": "pictures/Cooked Orca.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cooked Giant Squid",
+        "PhotoUrl": "pictures/Cooked Giant Squid.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bag of Tricks",
+        "PhotoUrl": "pictures/Bag of Tricks.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bag of Sweets",
+        "PhotoUrl": "pictures/Bag of Sweets.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magic Bag of Treats",
+        "PhotoUrl": "pictures/Magic Bag of Treats.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Present (White)",
+        "PhotoUrl": "pictures/Present (White).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Present (Red)",
+        "PhotoUrl": "pictures/Present (Red).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Present (Gold)",
+        "PhotoUrl": "pictures/Present (Gold).png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Magnetic Charge",
+        "PhotoUrl": "pictures/Magnetic Charge.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Fire Staff",
+        "PhotoUrl": "pictures/Fire Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ice Staff",
+        "PhotoUrl": "pictures/Ice Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nature Staff",
+        "PhotoUrl": "pictures/Nature Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cursed Staff",
+        "PhotoUrl": "pictures/Cursed Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Elder Nature Staff",
+        "PhotoUrl": "pictures/Elder Nature Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Elder Cursed Staff",
+        "PhotoUrl": "pictures/Elder Cursed Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Elder Ice Staff",
+        "PhotoUrl": "pictures/Elder Ice Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Elder Fire Staff",
+        "PhotoUrl": "pictures/Elder Fire Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nightspun Staff",
+        "PhotoUrl": "pictures/Nightspun Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Golemite Staff",
+        "PhotoUrl": "pictures/Golemite Staff.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Staff of Corruption",
+        "PhotoUrl": "pictures/Staff of Corruption.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Staff of Torment",
+        "PhotoUrl": "pictures/Staff of Torment.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Staff of Rage",
+        "PhotoUrl": "pictures/Staff of Rage.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Staff of Disdain",
+        "PhotoUrl": "pictures/Staff of Disdain.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Staff of Turmoil",
+        "PhotoUrl": "pictures/Staff of Turmoil.png",
+        "InfoUrl": ""
     }
 ]

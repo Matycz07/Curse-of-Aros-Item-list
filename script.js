@@ -60,3 +60,10 @@ for (let index = 0; index < y.length; index++) {
     }
 }
 }
+window.addEventListener('scroll',(e)=>{
+    if (window.scrollY > 202) {
+        document.querySelectorAll("svg")[0].style.display = ""
+    } else {
+        document.querySelectorAll("svg")[0].style.display = "none"
+    }
+})
