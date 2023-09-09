@@ -19,15 +19,40 @@ document.querySelector(".searchbar").addEventListener("input",(e)=>{
 
 const xhttp = new XMLHttpRequest();
 xhttp.onload = function() {
-    data = JSON.parse(this.responseText)
-    data.sort(function(a, b) {
-        return a.Name.localeCompare(b.Name);
-    });
-    loaddata()
+    let num = Number(this.responseText)
+    if (localStorage.Num != undefined) {
+        if (Number(localStorage.getItem("Num")) < num) {
+            document.querySelector(".allitems").innerHTML = ""
+            loadjson()
+            localStorage.setItem("Num",num)
+        }
+    } else {
+        localStorage.setItem("Num",num)
+    }
   }
-xhttp.open("GET", "data.json", true);
+xhttp.open("GET", "update.json", true);
 xhttp.send();
 
+if (localStorage.DataJSON == undefined) {
+loadjson()
+} else {
+    data = JSON.parse(localStorage.getItem("DataJSON"))
+    loaddata()
+}
+
+function loadjson(){
+    const xhttp = new XMLHttpRequest();
+    xhttp.onload = function() {
+        data = JSON.parse(this.responseText)
+        data.sort(function(a, b) {
+            return a.Name.localeCompare(b.Name);
+        });
+        localStorage.setItem("DataJSON",JSON.stringify(data))
+        loaddata()
+      }
+    xhttp.open("GET", "data.json", true);
+    xhttp.send();
+}
 function loaddata(){
     let c = 0
     let items = document.querySelector(".allitems")
