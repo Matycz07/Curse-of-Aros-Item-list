@@ -1,0 +1,467 @@
+[
+    {
+        "Name": "Potion",
+        "PhotoUrl": "pictures/Potion.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Health flask",
+        "PhotoUrl": "pictures/Health flask.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Remote Bank Chest",
+        "PhotoUrl": "pictures/Remote Bank Chest.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Candy",
+        "PhotoUrl": "pictures/Candy.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Lollipop",
+        "PhotoUrl": "pictures/Lollipop.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scroll of Returning",
+        "PhotoUrl": "pictures/Scroll of Returning.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scroll of Rebirth",
+        "PhotoUrl": "pictures/Scroll of Rebirth.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Name Tag",
+        "PhotoUrl": "pictures/Name Tag.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Pet Name Tag",
+        "PhotoUrl": "pictures/Pet Name Tag.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Prison Key",
+        "PhotoUrl": "pictures/Prison Key.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Sword",
+        "PhotoUrl": "pictures/Bronze Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Cap",
+        "PhotoUrl": "pictures/Bronze Cap.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Chainbody",
+        "PhotoUrl": "pictures/Bronze Chainbody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Cap",
+        "PhotoUrl": "pictures/Iron Cap.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Chainbody",
+        "PhotoUrl": "pictures/Iron Chainbody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Rusty Steel Sword",
+        "PhotoUrl": "pictures/Rusty Steel Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Sword",
+        "PhotoUrl": "pictures/Steel Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Cap",
+        "PhotoUrl": "pictures/Steel Cap.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Platebody",
+        "PhotoUrl": "pictures/Steel Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Platelegs",
+        "PhotoUrl": "pictures/Steel Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Cap",
+        "PhotoUrl": "pictures/Crimsteel Cap.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Chainbody",
+        "PhotoUrl": "pictures/Crimsteel Chainbody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Platelegs",
+        "PhotoUrl": "pictures/Crimsteel Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Boots",
+        "PhotoUrl": "pictures/Crimsteel Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Sword",
+        "PhotoUrl": "pictures/Crimsteel Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Helm",
+        "PhotoUrl": "pictures/Mythan Helm.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Platebody",
+        "PhotoUrl": "pictures/Mythan Platebody.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Platelegs",
+        "PhotoUrl": "pictures/Mythan Platelegs.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Boots",
+        "PhotoUrl": "pictures/Mythan Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Mythan Sword",
+        "PhotoUrl": "pictures/Mythan Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Hammer",
+        "PhotoUrl": "pictures/Hammer.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Pickaxe",
+        "PhotoUrl": "pictures/Bronze Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Pickaxe",
+        "PhotoUrl": "pictures/Iron Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Pickaxe",
+        "PhotoUrl": "pictures/Steel Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Pickaxe",
+        "PhotoUrl": "pictures/Crimsteel Pickaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Axe",
+        "PhotoUrl": "pictures/Bronze Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Axe",
+        "PhotoUrl": "pictures/Iron Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Axe",
+        "PhotoUrl": "pictures/Steel Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Axe",
+        "PhotoUrl": "pictures/Crimsteel Axe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Bronze Rod",
+        "PhotoUrl": "pictures/Bronze Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Rod",
+        "PhotoUrl": "pictures/Iron Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Steel Rod",
+        "PhotoUrl": "pictures/Steel Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crimsteel Rod",
+        "PhotoUrl": "pictures/Crimsteel Rod.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Thread",
+        "PhotoUrl": "pictures/Thread.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Golden Thread",
+        "PhotoUrl": "pictures/Golden Thread.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Crab",
+        "PhotoUrl": "pictures/Crab.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ember Tome",
+        "PhotoUrl": "pictures/Ember Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Leech Tome",
+        "PhotoUrl": "pictures/Leech Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Haunt Tome",
+        "PhotoUrl": "pictures/Haunt Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Icicle Tome",
+        "PhotoUrl": "pictures/Icicle Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ignite Tome",
+        "PhotoUrl": "pictures/Ignite Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Drain Tome",
+        "PhotoUrl": "pictures/Drain Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Curse Tome",
+        "PhotoUrl": "pictures/Curse Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Freeze Tome",
+        "PhotoUrl": "pictures/Freeze Tome.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Wand",
+        "PhotoUrl": "pictures/Wand.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Novice Hood",
+        "PhotoUrl": "pictures/Novice Hood.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Novice Top",
+        "PhotoUrl": "pictures/Novice Top.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Apprentice Hood",
+        "PhotoUrl": "pictures/Apprentice Hood.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Apprentice Top",
+        "PhotoUrl": "pictures/Apprentice Top.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scholar Hat",
+        "PhotoUrl": "pictures/Scholar Hat.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scholar Top",
+        "PhotoUrl": "pictures/Scholar Top.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Scholar Robe",
+        "PhotoUrl": "pictures/Scholar Robe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Expert Hat",
+        "PhotoUrl": "pictures/Expert Hat.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Expert Top",
+        "PhotoUrl": "pictures/Expert Top.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Expert Robe",
+        "PhotoUrl": "pictures/Expert Robe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Adept Hat",
+        "PhotoUrl": "pictures/Adept Hat.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Adept Top",
+        "PhotoUrl": "pictures/Adept Top.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Adept Robe",
+        "PhotoUrl": "pictures/Adept Robe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Adept Boots",
+        "PhotoUrl": "pictures/Adept Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Highmage Hat",
+        "PhotoUrl": "pictures/Highmage Hat.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Highmage Top",
+        "PhotoUrl": "pictures/Highmage Top.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Highmage Robe",
+        "PhotoUrl": "pictures/Highmage Robe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Highmage Boots",
+        "PhotoUrl": "pictures/Highmage Boots.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Heart of Grace",
+        "PhotoUrl": "pictures/Heart of Grace.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Broken Wooden Sword",
+        "PhotoUrl": "pictures/Broken Wooden Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Iron Sword",
+        "PhotoUrl": "pictures/Iron Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Sharper Steel Sword",
+        "PhotoUrl": "pictures/Sharper Steel Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ruby Sword",
+        "PhotoUrl": "pictures/Ruby Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Sapphire Sword",
+        "PhotoUrl": "pictures/Sapphire Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Arosite Sword",
+        "PhotoUrl": "pictures/Arosite Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Sharper Mythan Sword",
+        "PhotoUrl": "pictures/Sharper Mythan Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Cobalt Sword",
+        "PhotoUrl": "pictures/Cobalt Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Chaotic Mythan Sword",
+        "PhotoUrl": "pictures/Chaotic Mythan Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Varaxite Sword",
+        "PhotoUrl": "pictures/Varaxite Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Glacial Blade",
+        "PhotoUrl": "pictures/Glacial Blade.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Nature's Blade",
+        "PhotoUrl": "pictures/Nature's Blade.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Spectral Sword",
+        "PhotoUrl": "pictures/Spectral Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Pumpking Sword",
+        "PhotoUrl": "pictures/Pumpking Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Phantom Sword",
+        "PhotoUrl": "pictures/Phantom Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Golemite Battleaxe",
+        "PhotoUrl": "pictures/Golemite Battleaxe.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Spear",
+        "PhotoUrl": "pictures/Umbral Spear.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Umbral Sword",
+        "PhotoUrl": "pictures/Umbral Sword.png",
+        "InfoUrl": ""
+    },
+    {
+        "Name": "Ancient Scimitar",
+        "PhotoUrl": "pictures/Ancient Scimitar.png",
+        "InfoUrl": ""
+    }
+]
